@@ -1,0 +1,5 @@
+{
+  "name": "Markdown to Document Converter",
+  "description": "A web application that renders markdown text in real-time and allows you to export the formatted output as a DOCX or PDF file. Ideal for previewing LLM chat outputs.",
+  "requestFramePermissions": []
+}
